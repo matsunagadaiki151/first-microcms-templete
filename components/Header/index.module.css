@@ -6,3 +6,10 @@
   height: 24px;
   width: auto;
 }
+
+.header p {
+  font-family: 'Hiragino Maru Gothic Pro', Meiryo, sans-serif;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
+}

@@ -8,10 +8,10 @@ import styles from './layout.module.css';
 
 export const metadata = {
   metadataBase: new URL(process.env.BASE_URL || 'http://localhost:3000'),
-  title: 'Simple Blog',
+  title: '初めてのmicroCMSテンプレートで作ったブログ',
   description: 'A simple blog presented by microCMS',
   openGraph: {
-    title: 'Simple Blog',
+    title: 'はじめてのmicroCMSテンプレートで作ったブログ',
     description: 'A simple blog presented by microCMS',
     images: '/ogp.png',
   },
